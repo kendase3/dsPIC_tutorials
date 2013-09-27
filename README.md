@@ -14,9 +14,6 @@ http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en532302
 Roving Networks Bluetooth Chip
 https://www.sparkfun.com/products/10559
 
-OpenLog Data Logger
-https://www.sparkfun.com/products/9530
-
 a RS232 converter
 https://www.sparkfun.com/products/449?gclid=CO_1j-Dc7LkCFY6Y4Aod6zAAnQ
 

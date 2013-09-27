@@ -1,5 +1,7 @@
 /*
-	the main function and implementation-specific file for MGWD on dsPIC33
+	a short session in which a string is sent over serial to the device,
+	stored briefly, then UART1 is remapped to a bluetooth pin and the
+	message is passed to a python script
 */
 
 #include <p33Fxxxx.h>

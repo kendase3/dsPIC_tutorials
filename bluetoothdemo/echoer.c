@@ -1,5 +1,5 @@
 /*
-	the main function and implementation-specific file for MGWD on dsPIC33
+	an echoer program to pass UART1 data to UART2 and vice-versa
 */
 
 #include <p33Fxxxx.h>
